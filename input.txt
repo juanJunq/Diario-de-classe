@@ -1,0 +1,23 @@
+Albert Einstein
+1801
+2
+ESTRUTURA DE DADOS I
+ED I
+ALGORITMOS I
+ALG I
+4
+Igor Vinicius
+2401
+Joaquim Silva
+2402
+Vitor Santos Silva Andrade
+2403
+Luciano Neves
+2404
+3
+Andrezinho
+2405
+Matheus Pereira
+2406
+Joao Silva
+2407
